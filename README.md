@@ -1,4 +1,4 @@
-# COSITAS DE GIT
+# Cositas de git
 Esta es una tarea de Laboratorio de Métodos Computacionales
 
 ### Formato de Markdown
@@ -8,3 +8,6 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 * lista
 
 ![Puyehue](https://bucket3.glanacion.com/anexos/fotos/08/2711108w380.jpg)
+
+# Acerca del autor
+César Bucheli Nación en 1998 en Neiva. Estudia geociencias e ingeniería química. 
