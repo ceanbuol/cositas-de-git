@@ -13,3 +13,5 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 César Bucheli Nación en 1998 en Neiva. Estudia Geociencias e Ingeniería Química. 
 # Acerca del colaborador 
 Julián Rojas nació en Bogotá en el 2000. Estudia Física.
+# Acerca del autor
+M. Castelblanco nació en 1998 en Neiva. Estudia Geociencias e Ingeniería Química. 
